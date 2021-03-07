@@ -1,4 +1,4 @@
-# William-Basic-connection-in-HP
+# William-Basic-connection-in-PHP
 
 Basic connection in PHP
 
